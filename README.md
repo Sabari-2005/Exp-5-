@@ -1,4 +1,6 @@
 # Exp - 5 STUDENT ENROLLMENT SYSTEM
+# Name-SABARINATH R
+# REGISTER NO-212223100048
 
 # AIM:
 To draw the UML diagram for Student Course Enrollment System.
